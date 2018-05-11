@@ -1,0 +1,456 @@
+Oracle Schemas=PMSS auto back up starting...
+expdp pmss/pmss directory=DATA_PUMP_DIR dumpfile=pmss_autobak_20180430021501.dmp logfile=pmss_autobak_20180430021501.log SCHEMAS=PMSS content=all
+
+Export: Release 11.2.0.1.0 - Production on Mon Apr 30 02:15:01 2018
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Connected to: Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+Starting "PMSS"."SYS_EXPORT_SCHEMA_01":  pmss/******** directory=DATA_PUMP_DIR dumpfile=pmss_autobak_20180430021501.dmp logfile=pmss_autobak_20180430021501.log SCHEMAS=PMSS content=all 
+Estimate in progress using BLOCKS method...
+Processing object type SCHEMA_EXPORT/TABLE/TABLE_DATA
+Total estimation using BLOCKS method: 6.946 GB
+Processing object type SCHEMA_EXPORT/USER
+Processing object type SCHEMA_EXPORT/SYSTEM_GRANT
+Processing object type SCHEMA_EXPORT/ROLE_GRANT
+Processing object type SCHEMA_EXPORT/DEFAULT_ROLE
+Processing object type SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Processing object type SCHEMA_EXPORT/TYPE/TYPE_SPEC
+Processing object type SCHEMA_EXPORT/SEQUENCE/SEQUENCE
+Processing object type SCHEMA_EXPORT/TABLE/TABLE
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/INDEX
+Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Processing object type SCHEMA_EXPORT/TABLE/COMMENT
+Processing object type SCHEMA_EXPORT/PACKAGE/PACKAGE_SPEC
+Processing object type SCHEMA_EXPORT/FUNCTION/FUNCTION
+Processing object type SCHEMA_EXPORT/PROCEDURE/PROCEDURE
+Processing object type SCHEMA_EXPORT/PACKAGE/COMPILE_PACKAGE/PACKAGE_SPEC/ALTER_PACKAGE_SPEC
+Processing object type SCHEMA_EXPORT/FUNCTION/ALTER_FUNCTION
+Processing object type SCHEMA_EXPORT/PROCEDURE/ALTER_PROCEDURE
+Processing object type SCHEMA_EXPORT/VIEW/VIEW
+Processing object type SCHEMA_EXPORT/VIEW/COMMENT
+Processing object type SCHEMA_EXPORT/PACKAGE/PACKAGE_BODY
+Processing object type SCHEMA_EXPORT/TYPE/TYPE_BODY
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/FUNCTIONAL_AND_BITMAP/INDEX
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/FUNCTIONAL_AND_BITMAP/INDEX_STATISTICS
+Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+Processing object type SCHEMA_EXPORT/MATERIALIZED_VIEW
+. . exported "PMSS"."SYS_LOG"                            1.198 MB   15259 rows
+. . exported "PMSS"."HIS_PDT_REPO_BOND_BP"               743.3 MB 6388910 rows
+. . exported "PMSS"."HIS_BSC_TNOR_CFMT_SPLIT"            483.5 MB 1312298 rows
+. . exported "PMSS"."HIS_PDT_TNOR_MAIN_BP"               297.3 MB  684644 rows
+. . exported "PMSS"."HIS_PDT_TNOR_MAIN"                  286.7 MB  656149 rows
+. . exported "PMSS"."HIS_BSC_TNOR_CMMS_SPLIT"            171.8 MB 1361276 rows
+. . exported "PMSS"."UFSG_VERIFICATION"                  67.49 MB  429066 rows
+. . exported "PMSS"."HIS_PDT_BSD_DTL_BP"                 54.32 MB  295434 rows
+. . exported "PMSS"."HIS_PDT_TNOR_TRADE"                 47.00 MB  293807 rows
+. . exported "PMSS"."HIS_BSD_TMP_2016"                   38.84 MB   97781 rows
+. . exported "PMSS"."HIS_PDT_BSD_DTL"                    40.84 MB  229486 rows
+. . exported "PMSS"."HIS_BSD_TMP_BACK20180118"           38.00 MB   97783 rows
+. . exported "PMSS"."HIS_BSD_TMP_BAK20180113"            35.82 MB   91653 rows
+. . exported "PMSS"."HIS_BSD_TMP"                        35.64 MB   91653 rows
+. . exported "PMSS"."HIS_PDT_BSDC_DTL_BP"                32.65 MB  173258 rows
+. . exported "PMSS"."HIS_BSD_TMP_BACK"                   29.63 MB   91653 rows
+. . exported "PMSS"."BSC_TNOR_CFMT_SPLIT_BP"             29.24 MB   72431 rows
+. . exported "PMSS"."FTINC_CBONDDESCRIPTION"             23.69 MB  135784 rows
+. . exported "PMSS"."HIS_BSD_TMP_2015"                   22.85 MB   58646 rows
+. . exported "PMSS"."HIS_PDT_BSDC_DTL"                   22.07 MB  121085 rows
+. . exported "PMSS"."VW_BSCBOND_MAIN"                    17.69 MB  129874 rows
+. . exported "PMSS"."HIS_PDT_IRS_DTL"                    17.34 MB   52364 rows
+. . exported "PMSS"."HIS_BSD_TMP_2014"                   12.36 MB   32777 rows
+. . exported "PMSS"."HIS_PDT_IRS_DTL_BP"                 16.21 MB   46625 rows
+. . exported "PMSS"."BSC_TNORER_PDT"                     14.16 MB  287098 rows
+. . exported "PMSS"."BSC_TNOR_CMMS_SPLIT_BP"             14.11 MB  105285 rows
+. . exported "PMSS"."HIS_PDT_BSD_DTL_BAK20180119"        13.21 MB   74279 rows
+. . exported "PMSS"."HIS_PDT_FXSWAP_DTL"                 12.39 MB  107804 rows
+. . exported "PMSS"."HIS_PDT_FXSWAP_DTL_BP"              11.88 MB   95001 rows
+. . exported "PMSS"."BSC_MMBR_SEND_RECORD"               10.62 MB  142736 rows
+. . exported "PMSS"."BSC_TNOR_BROKER_DISCOUNT_BP"        2.013 MB    7127 rows
+. . exported "PMSS"."HIS_PDT_REPO_BOND"                  9.883 MB   92765 rows
+. . exported "PMSS"."HIS_PDT_REPO_DTL"                   8.990 MB   91788 rows
+. . exported "PMSS"."HIS_PDT_REPO_DTL_BP"                8.637 MB   82907 rows
+. . exported "PMSS"."HIS_PDT_TNOR_MAIN_BAK20180113"      9.120 MB   20582 rows
+. . exported "PMSS"."BSC_TNOR_DISCOUNT_BP"               1.614 MB    9283 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP"                     8.391 MB   26377 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_BACK20180118"        8.341 MB   26377 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_BACK"                6.904 MB   23571 rows
+. . exported "PMSS"."HIS_REPO_TMP_BACK20180118"          6.734 MB   23176 rows
+. . exported "PMSS"."TMP_BSC_TNORER_PDT"                 7.241 MB  147443 rows
+. . exported "PMSS"."BSC_TNORER_PDT_BAK"                 5.914 MB  120968 rows
+. . exported "PMSS"."HIS_REPO_TMP"                       6.744 MB   23176 rows
+. . exported "PMSS"."HIS_REPO_TMP_2016"                  6.289 MB   22078 rows
+. . exported "PMSS"."BSC_EXCHANGERATE"                   5.720 MB   79920 rows
+. . exported "PMSS"."BSC_EXCHANGERATE_BAK"               5.153 MB   71928 rows
+. . exported "PMSS"."HIS_BSD_TMP_2013"                   5.968 MB   15670 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_2014"                5.768 MB   18442 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_2015"                5.574 MB   17817 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_2016"                5.548 MB   17596 rows
+. . exported "PMSS"."HIS_REPO_TMP_BACK"                  5.556 MB   20861 rows
+. . exported "PMSS"."FTINC_CBONDINDUSTRYWIND"            4.264 MB  124725 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_2013"                4.074 MB   12978 rows
+. . exported "PMSS"."HIS_NCD_TMP"                        4.775 MB   11901 rows
+. . exported "PMSS"."HIS_NCD_TMP_BACK20180118"           5.015 MB   12503 rows
+. . exported "PMSS"."HIS_REPO_TMP_2015"                  5.071 MB   18261 rows
+. . exported "PMSS"."FTINC_CBONDWINDRATING"              3.805 MB  111219 rows
+. . exported "PMSS"."HIS_IRS_TMP"                        3.849 MB   12685 rows
+. . exported "PMSS"."HIS_IRS_TMP_BACK20180118"           3.838 MB   12685 rows
+. . exported "PMSS"."HIS_NCD_TMP_BACK"                   3.579 MB   11424 rows
+. . exported "PMSS"."HIS_PDT_NCD_DTL"                    3.822 MB   20890 rows
+. . exported "PMSS"."BSC_TNOR_BROKER_DISCOUNT"           3.139 MB   11248 rows
+. . exported "PMSS"."BSC_TNOR_CFMT_SPLIT"                425.5 KB     844 rows
+. . exported "PMSS"."BSC_TNOR_DISCOUNT"                  2.562 MB   14820 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_2013_BAK"            1.336 MB    4230 rows
+. . exported "PMSS"."HIS_IRS_TMP_2015"                   2.914 MB    9700 rows
+. . exported "PMSS"."HIS_IRS_TMP_2016"                   3.144 MB   10569 rows
+. . exported "PMSS"."HIS_IRS_TMP_BACK"                   3.282 MB   11862 rows
+. . exported "PMSS"."HIS_PDT_NCD_DTL_BP"                 2.964 MB   15447 rows
+. . exported "PMSS"."HIS_REPO_TMP_2014"                  2.853 MB   10279 rows
+. . exported "PMSS"."BSC_ACCT_PAYLIST_TEMP_BGC"          2.425 MB   26187 rows
+. . exported "PMSS"."BSC_MMBR_STLMTCFG"                  1.377 MB   25750 rows
+. . exported "PMSS"."HIS_BSD_TMP_2012"                   2.415 MB    6301 rows
+. . exported "PMSS"."HIS_DEPO_TMP_2014"                  1.718 MB    5773 rows
+. . exported "PMSS"."HIS_IRS_TMP_2014"                   2.189 MB    7335 rows
+. . exported "PMSS"."HIS_PDT_NCD_DTL_BAK20180119"        2.280 MB   12502 rows
+. . exported "PMSS"."UFSG_OUTSTANDING"                   1.815 MB   32126 rows
+. . exported "PMSS"."BSC_CFMT_DLVTNORER"                 979.3 KB   14124 rows
+. . exported "PMSS"."BSC_MMBR_CMMS"                      898.5 KB    6006 rows
+. . exported "PMSS"."BSC_MMBR_CMMS_BP"                   1.185 MB    7036 rows
+. . exported "PMSS"."BSC_MMBR_CMMS_BP_BAK"               976.9 KB    5688 rows
+. . exported "PMSS"."BSC_MMBR_DISCOUNT_C_BP"             1.392 MB   25883 rows
+. . exported "PMSS"."BSC_MMBR_MONTHDISCOUNT"             839.5 KB    7187 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_ALL"                  1.046 MB   11638 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_DETAIL"               1009. KB   20922 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_LISTS"                881.9 KB   11549 rows
+. . exported "PMSS"."BSC_TNORER"                         1.202 MB   18539 rows
+. . exported "PMSS"."BSC_TNOR_CMMS_SPLIT"                203.2 KB    1342 rows
+. . exported "PMSS"."FTINC_CBONDSPECIALCONDITIONS"       1.420 MB   29847 rows
+. . exported "PMSS"."HIS_BSC_CFMT_SPLIT_NCD201712"       909.4 KB    2196 rows
+. . exported "PMSS"."HIS_DEPO_TMP_2013"                  1.332 MB    4461 rows
+. . exported "PMSS"."HIS_DEPO_TMP_2015"                  1.527 MB    5124 rows
+. . exported "PMSS"."HIS_DEPO_TMP_2016"                  1.236 MB    4053 rows
+. . exported "PMSS"."HIS_FXSWAP_TMP_2012"                1.753 MB    5400 rows
+. . exported "PMSS"."HIS_IRS_TMP_2013"                   1.319 MB    4419 rows
+. . exported "PMSS"."HIS_NCD_TMP_2016"                   1.610 MB    4007 rows
+. . exported "PMSS"."HIS_PDT_BSD_DTL_BAK20180113"        1.217 MB    6423 rows
+. . exported "PMSS"."HIS_PDT_DEPO_DTL"                   1.106 MB   13157 rows
+. . exported "PMSS"."HIS_PDT_DEPO_DTL_BP"                1.091 MB   12401 rows
+. . exported "PMSS"."HIS_PDT_FXOPTION_DTL"               944.1 KB    5313 rows
+. . exported "PMSS"."HIS_PDT_FXOPTION_DTL_BP"            894.2 KB    4864 rows
+. . exported "PMSS"."HIS_PDT_IBO_DTL"                    1.122 MB   12893 rows
+. . exported "PMSS"."HIS_PDT_IBO_DTL_BP"                 1.137 MB   12484 rows
+. . exported "PMSS"."HIS_REPO_TMP_2013"                  1.415 MB    5067 rows
+. . exported "PMSS"."IMPORT_TABLE_ALL"                   1.409 MB    9560 rows
+. . exported "PMSS"."IMPORT_TABLE_BOND"                  1.246 MB    8771 rows
+. . exported "PMSS"."PDT_TNOR_MAIN"                      255.1 KB     422 rows
+. . exported "PMSS"."SYS_INTERFACE"                      1.592 MB   23074 rows
+. . exported "PMSS"."TMP_IMPORT_TABLE_ALL"               1.452 MB    9560 rows
+. . exported "PMSS"."TMP_IMPORT_TABLE_BOND"              1.285 MB    8771 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_ALL_BAK"              808.6 KB    8781 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_DETAIL_BAK"           774.8 KB   16867 rows
+. . exported "PMSS"."HIS_DEPO_TMP_2012"                  886.3 KB    2868 rows
+. . exported "PMSS"."TMP_BSC_PDT_EMAIL_ALL"              804.7 KB    8745 rows
+. . exported "PMSS"."TMP_BSC_PDT_EMAIL_DETAIL"           772.3 KB   16872 rows
+. . exported "PMSS"."HIS_DEPO_TMP_BACK20180118"          754.7 KB    2317 rows
+. . exported "PMSS"."BSC_EXCHANGERATE_EW"                692.6 KB    9324 rows
+. . exported "PMSS"."BSC_MMBR_MONTHDISCOUNT_BP_BAK"      710.8 KB    6655 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_LISTS_BAK"            716.3 KB    9137 rows
+. . exported "PMSS"."HIS_DEPO_TMP"                       754.8 KB    2317 rows
+. . exported "PMSS"."HIS_PDT_BSDC_DTL_BAK20180113"       691.0 KB    3425 rows
+. . exported "PMSS"."TMP_BSC_PDT_EMAIL_LISTS"              711 KB    9046 rows
+. . exported "PMSS"."HIS_DEPO_TMP_BACK"                  665.9 KB    2213 rows
+. . exported "PMSS"."HIS_IRS_TMP_2012"                   727.0 KB    2369 rows
+. . exported "PMSS"."TMP_BSC_TNORER"                     655.3 KB    9778 rows
+. . exported "PMSS"."BSC_TNORER_BAK"                     539.8 KB    8013 rows
+. . exported "PMSS"."BSC_MMBR"                           517.9 KB    2605 rows
+. . exported "PMSS"."BSC_TNOR_BROKER_DISCOUNT_TMP"       517.3 KB    1602 rows
+. . exported "PMSS"."HIS_PDT_TNOR_MAIN_NCD201712"        548.7 KB    1098 rows
+. . exported "PMSS"."SGUF_BSC_MMBR"                      497.2 KB    2080 rows
+. . exported "PMSS"."HIS_REPO_TMP_2012"                  474.6 KB    1562 rows
+. . exported "PMSS"."BSC_TNOR_DISCOUNT_TMP"              415.5 KB    2205 rows
+. . exported "PMSS"."HIS_FXOPTION_TMP"                   394.4 KB    1648 rows
+. . exported "PMSS"."HIS_FXOPTION_TMP_BACK20180118"      392.7 KB    1648 rows
+. . exported "PMSS"."PDT_BILL_TRADE"                     388.0 KB    3816 rows
+. . exported "PMSS"."BSC_PDT_DEFINE"                     295.3 KB    2368 rows
+. . exported "PMSS"."HIS_FXOPTION_TMP_2016"              363.8 KB    1476 rows
+. . exported "PMSS"."HIS_FXOPTION_TMP_BACK"                333 KB    1446 rows
+. . exported "PMSS"."HIS_NCD_TMP_2015"                   357.4 KB     840 rows
+. . exported "PMSS"."BBSC_PDT_DEFINE_20171121"           265.8 KB    2127 rows
+. . exported "PMSS"."BSC_MMBR_BAK"                       288.0 KB    1382 rows
+. . exported "PMSS"."BSC_MMBR_DISCOUNT_CURRENCY"         280.0 KB    5301 rows
+. . exported "PMSS"."HIS_BSC_CMMS_SPLIT_NCD201712"       303.7 KB    2208 rows
+. . exported "PMSS"."PDT_BSD_DTL"                        58.58 KB     208 rows
+. . exported "PMSS"."BSC_MMBR_RPT_DEFINE"                216.5 KB    1810 rows
+. . exported "PMSS"."HIS_NCD_TMP_12BAK_20180119"         218.8 KB     477 rows
+. . exported "PMSS"."HIS_PDT_NCD_DTL_NCD201712"          226.6 KB    1098 rows
+. . exported "PMSS"."BSC_CMMS_FORMULA"                   56.14 KB      43 rows
+. . exported "PMSS"."BSC_EXCHANGERATE_EW_BAK"            201.8 KB    2664 rows
+. . exported "PMSS"."BSC_MMBR_RPT_DEFINE_20171121"       190.5 KB    1606 rows
+. . exported "PMSS"."BSC_PDT_USER_DEFINE"                156.1 KB    1596 rows
+. . exported "PMSS"."HIS_DEPO_TMP_2011"                  180.3 KB     683 rows
+. . exported "PMSS"."HIS_FXOPTION_TMP_2014"              169.1 KB     640 rows
+. . exported "PMSS"."HIS_FXOPTION_TMP_2015"              181.2 KB     691 rows
+. . exported "PMSS"."PDT_BSDC_DTL"                       37.41 KB      93 rows
+. . exported "PMSS"."SYS_USER_RIGHTS"                    111.3 KB    6474 rows
+. . exported "PMSS"."BSC_ACCT_PAYLIST_TEMP"              109.7 KB    1269 rows
+. . exported "PMSS"."BSC_ACCT_PAYLIST_TEMP_BAK"          121.8 KB    1461 rows
+. . exported "PMSS"."BSC_ACCT_SEND"                      103.7 KB     667 rows
+. . exported "PMSS"."BSC_HOLIDAY"                        123.5 KB    2078 rows
+. . exported "PMSS"."BSC_MMBR_BP"                        119.7 KB     506 rows
+. . exported "PMSS"."BSC_MMBR_MONTHDISCOUNT_BAK"         106.7 KB     908 rows
+. . exported "PMSS"."BSC_MMBR_PAYALL"                    110.1 KB    1200 rows
+. . exported "PMSS"."HIS_PDT_FXSWAPF_DTL"                127.1 KB     812 rows
+. . exported "PMSS"."HIS_PDT_FXSWAPF_DTL_BP"             143.3 KB     762 rows
+. . exported "PMSS"."HIS_PDT_OBPO_DTL_BP"                135.7 KB     655 rows
+. . exported "PMSS"."IMPORT_TABLE_OTHER"                 134.2 KB     791 rows
+. . exported "PMSS"."PDT_TNOR_ISWRITEOFF_MAIN"           138.4 KB    1714 rows
+. . exported "PMSS"."TMP_IMPORT_EMAIL"                   141.5 KB     663 rows
+. . exported "PMSS"."TMP_IMPORT_NOPAYLIST"               137.4 KB     689 rows
+. . exported "PMSS"."BSC_ACCT_BILL_PAY"                  52.86 KB     427 rows
+. . exported "PMSS"."BSC_ACCT_SEND_BGC"                  93.41 KB     595 rows
+. . exported "PMSS"."BSC_CMMS_FORMULA_BAK"               51.22 KB      48 rows
+. . exported "PMSS"."BSC_DISCOUNT_BP"                    58.09 KB     626 rows
+. . exported "PMSS"."BSC_MMBR_CMMS_BP20171012"           88.75 KB     495 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_ALL_BGC"              70.40 KB     630 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_ALL_BP"               65.52 KB     519 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_DETAIL_BGC"           47.07 KB     878 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_DETAIL_BP"            55.66 KB     828 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_LISTS_BGC"            66.39 KB     849 rows
+. . exported "PMSS"."BSC_RPT_DEFINE_ALL"                 100.9 KB     871 rows
+. . exported "PMSS"."BSC_RPT_DEFINE_ALL_20171225"        54.25 KB     415 rows
+. . exported "PMSS"."BSC_RPT_DEFINE_ALL_20180129"        81.46 KB     682 rows
+. . exported "PMSS"."BSC_TNOR_BROKER_DISCOUNT_BAK"       109.8 KB     200 rows
+. . exported "PMSS"."BSC_TNOR_DISCOUNT_BAK"              56.87 KB     226 rows
+. . exported "PMSS"."HIS_BSD_TMP_2011"                   71.65 KB     158 rows
+. . exported "PMSS"."HIS_PDT_OBPO_DTL"                   102.8 KB     588 rows
+. . exported "PMSS"."HIS_REPO_TMP_2011"                  85.22 KB     306 rows
+. . exported "PMSS"."SYS_USER"                           54.72 KB     275 rows
+. . exported "PMSS"."TEST_IMPORT_S"                      88.69 KB     595 rows
+. . exported "PMSS"."TMP_BSC_MMBR_NEW"                   73.22 KB     897 rows
+. . exported "PMSS"."BSC_ACCT_BILL_GROUP_STATE"          28.84 KB     328 rows
+. . exported "PMSS"."BSC_ACCT_NUMBER"                    6.492 KB       4 rows
+. . exported "PMSS"."BSC_AUTO_SEND"                      7.539 KB       1 rows
+. . exported "PMSS"."BSC_BROKER_PDT"                     35.07 KB     482 rows
+. . exported "PMSS"."BSC_CFMT_PLSWORD"                   10.36 KB      14 rows
+. . exported "PMSS"."BSC_CMMS_FORMULA20171012"           20.68 KB       9 rows
+. . exported "PMSS"."BSC_CURRENCY"                       10.99 KB      40 rows
+. . exported "PMSS"."BSC_DEPARTMENT"                     15.12 KB     237 rows
+. . exported "PMSS"."BSC_DEPARTMENT_BAK"                 15.92 KB     260 rows
+. . exported "PMSS"."BSC_DEPARTMENT_BGC"                 17.02 KB     287 rows
+. . exported "PMSS"."BSC_DISCOUNT"                       25.17 KB     208 rows
+. . exported "PMSS"."BSC_FINANCIALACCT"                  10.27 KB      49 rows
+. . exported "PMSS"."BSC_IRS_PDT"                        15.40 KB       7 rows
+. . exported "PMSS"."BSC_IRS_TBRKET"                     8.820 KB       1 rows
+. . exported "PMSS"."BSC_IRS_TENOR_DIFFERENCE"           8.765 KB       7 rows
+. . exported "PMSS"."BSC_MMBR_ACCT_BILL"                 11.70 KB       1 rows
+. . exported "PMSS"."BSC_MMBR_ALTER"                     9.296 KB      12 rows
+. . exported "PMSS"."BSC_MMBR_CONTACT"                   9.656 KB       1 rows
+. . exported "PMSS"."BSC_MMBR_DISCOUNT"                  15.57 KB      95 rows
+. . exported "PMSS"."BSC_MMBR_DISCOUNT_BP"               28.95 KB     272 rows
+. . exported "PMSS"."BSC_MMBR_MONTHDISCOUNT_TMP"         22.89 KB      43 rows
+. . exported "PMSS"."BSC_MMBR_PRECONTRACT"               10.26 KB      17 rows
+. . exported "PMSS"."BSC_MMBR_RPTDLV"                    10.98 KB       1 rows
+. . exported "PMSS"."BSC_MMBR_RPT_EMAIL"                 9.289 KB       1 rows
+. . exported "PMSS"."BSC_MMBR_SETTLEMENT"                37.29 KB     265 rows
+. . exported "PMSS"."BSC_MMBR_SETTLEMENT_20171227"       14.48 KB      39 rows
+. . exported "PMSS"."BSC_MMBR_SETTLEMENT_BAK"            12.40 KB      20 rows
+. . exported "PMSS"."BSC_MMBR_TAX_BPTE"                  18.05 KB      95 rows
+. . exported "PMSS"."BSC_MONTH_RPT_TWO"                  14.02 KB     197 rows
+. . exported "PMSS"."BSC_PDTBSC"                         9.085 KB      16 rows
+. . exported "PMSS"."BSC_PDT_CFMT"                       14.52 KB      19 rows
+. . exported "PMSS"."BSC_PDT_EMAIL_LISTS_TMP"            13.52 KB      56 rows
+. . exported "PMSS"."BSC_PDT_PRE_DEFINE"                 10.33 KB      16 rows
+. . exported "PMSS"."BSC_PDT_SPECIAL_SET"                10.55 KB      12 rows
+. . exported "PMSS"."BSC_PDT_USER_DEFINE_20171121"       33.55 KB     258 rows
+. . exported "PMSS"."BSC_PERSONALMAIL"                   9.757 KB       2 rows
+. . exported "PMSS"."BSC_PREMIUM_TYPE"                   7.890 KB       8 rows
+. . exported "PMSS"."BSC_RPT_AKEY_PDT"                   13.14 KB      59 rows
+. . exported "PMSS"."BSC_RPT_DEFINE_ALL_20171121"        34.41 KB     200 rows
+. . exported "PMSS"."BSC_TNORER_PDT_BAK3832"             10.05 KB      32 rows
+. . exported "PMSS"."HIS_FXFWD_TMP"                      20.64 KB       7 rows
+. . exported "PMSS"."HIS_FXFWD_TMP_2012"                 47.82 KB     123 rows
+. . exported "PMSS"."HIS_FXFWD_TMP_2013"                 20.61 KB       7 rows
+. . exported "PMSS"."HIS_FXFWD_TMP_2014"                 20.32 KB       6 rows
+. . exported "PMSS"."HIS_FXFWD_TMP_2015"                 24.60 KB      20 rows
+. . exported "PMSS"."HIS_FXFWD_TMP_2016"                 21.96 KB      11 rows
+. . exported "PMSS"."HIS_FXFWD_TMP_BACK"                 17.94 KB       7 rows
+. . exported "PMSS"."HIS_FXFWD_TMP_BACK20180118"         20.64 KB       7 rows
+. . exported "PMSS"."HIS_IRS_TMP_2011"                   55.25 KB     170 rows
+. . exported "PMSS"."HIS_NCD_TMP_2014"                   48.61 KB      71 rows
+. . exported "PMSS"."HIS_PDT_FXFWD_DTL"                  32.14 KB     174 rows
+. . exported "PMSS"."HIS_PDT_FXFWD_DTL_BP"               32.47 KB     167 rows
+. . exported "PMSS"."HIS_PDT_IBLS_DTL_BP"                21.28 KB      43 rows
+. . exported "PMSS"."HIS_PDT_IBL_DTL"                    16.21 KB       6 rows
+. . exported "PMSS"."HIS_PDT_IBL_DTL_BP"                 47.45 KB     250 rows
+. . exported "PMSS"."MMBR_TMP"                           10.98 KB      74 rows
+. . exported "PMSS"."PDT_BSDC_PRE_DTL"                   14.42 KB       2 rows
+. . exported "PMSS"."PDT_IBLS_DTL"                       16.98 KB      12 rows
+. . exported "PMSS"."PDT_IBL_DTL"                        28.90 KB     107 rows
+. . exported "PMSS"."PDT_NCD_DTL"                        20.32 KB       2 rows
+. . exported "PMSS"."PDT_TNOR_PRE"                       27.10 KB       2 rows
+. . exported "PMSS"."REPLACEALL"                         6.328 KB      25 rows
+. . exported "PMSS"."RPT_FEE_DEF"                        24.77 KB     470 rows
+. . exported "PMSS"."RPT_S3C_EXCEL"                      20.42 KB     408 rows
+. . exported "PMSS"."SGUF_PDT_TNOR_MAIN_TMP"             65.02 KB      17 rows
+. . exported "PMSS"."SYS_CONFIGS"                        19.82 KB     163 rows
+. . exported "PMSS"."SYS_CONFIGS_20171225"               19.45 KB     157 rows
+. . exported "PMSS"."SYS_DISCOUNT"                       21.37 KB      56 rows
+. . exported "PMSS"."SYS_LOCATIONS"                      8.398 KB      56 rows
+. . exported "PMSS"."SYS_MENU"                           20.78 KB     365 rows
+. . exported "PMSS"."SYS_PDT"                            10.53 KB      16 rows
+. . exported "PMSS"."SYS_PDTTABLES"                      7.445 KB       8 rows
+. . exported "PMSS"."SYS_SEND"                           6.078 KB       7 rows
+. . exported "PMSS"."TEST_BOND_RESULT"                   8.820 KB       2 rows
+. . exported "PMSS"."TMP_ALL"                            8.453 KB     107 rows
+. . exported "PMSS"."TMP_BSC_DEPARTMENT"                 13.98 KB     207 rows
+. . exported "PMSS"."TMP_BSC_MMBR_2011"                  8.156 KB      96 rows
+. . exported "PMSS"."TMP_BSC_MMBR_ALL"                   27.83 KB     305 rows
+. . exported "PMSS"."TMP_IMPORT_TABLE"                   9.375 KB      93 rows
+. . exported "PMSS"."TMP_NO"                             5.562 KB      23 rows
+. . exported "PMSS"."TMP_SYSUSER"                        6.882 KB      77 rows
+. . exported "PMSS"."VW_COLLECT_BGC"                     10.39 KB      22 rows
+. . exported "PMSS"."VW_COLLECT_C_BGC"                   10.35 KB      21 rows
+. . exported "PMSS"."V_TNOR_CMMS_SPLIT_BAK"              27.81 KB      78 rows
+. . exported "PMSS"."BSC_ACCT_ADDR"                          0 KB       0 rows
+. . exported "PMSS"."BSC_ACCT_BILL_EMAIL"                    0 KB       0 rows
+. . exported "PMSS"."BSC_ACCT_BILL_GROUP"                    0 KB       0 rows
+. . exported "PMSS"."BSC_BOND"                               0 KB       0 rows
+. . exported "PMSS"."BSC_CFMT_DLVEMAIL"                      0 KB       0 rows
+. . exported "PMSS"."BSC_CFMT_DLVFAX"                        0 KB       0 rows
+. . exported "PMSS"."BSC_CFMT_SEND"                          0 KB       0 rows
+. . exported "PMSS"."BSC_EMAIM_CONTENT"                      0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_ACCT_COLUMN"                   0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_ACCT_NUMBER"                   0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_EXTEND_DISCOUNT"               0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_EXTEND_FEE"                    0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_MONTHDISCOUNT_BP"              0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_PDT_RELATION"                  0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_RPTCFG"                        0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_RPT_CUSTOM"                    0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_RPT_FAX"                       0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_RPT_ZEROFEE"                   0 KB       0 rows
+. . exported "PMSS"."BSC_MMBR_SEC_TAX_DISCOUNT"              0 KB       0 rows
+. . exported "PMSS"."BSC_NON_PAYMENT"                        0 KB       0 rows
+. . exported "PMSS"."BSC_RPT_AKEY_SET"                       0 KB       0 rows
+. . exported "PMSS"."BSC_RPT_DEFINE_ALL_BAK"                 0 KB       0 rows
+. . exported "PMSS"."BSC_RPT_PUTONRECORDI_EMAIL"             0 KB       0 rows
+. . exported "PMSS"."BSC_RPT_PUTONRECORDI_SET"               0 KB       0 rows
+. . exported "PMSS"."BSC_RPT_PUTONRECORDI_TBIL"              0 KB       0 rows
+. . exported "PMSS"."BSC_TNOR_CFMT_DC"                       0 KB       0 rows
+. . exported "PMSS"."BSC_TNOR_CMMS_DC"                       0 KB       0 rows
+. . exported "PMSS"."FAXRECV"                                0 KB       0 rows
+. . exported "PMSS"."FAXSTAT"                                0 KB       0 rows
+. . exported "PMSS"."HIS_BSC_TNOR_BROKER_DISCOUNT"           0 KB       0 rows
+. . exported "PMSS"."HIS_BSC_TNOR_DISCOUNT"                  0 KB       0 rows
+. . exported "PMSS"."HIS_FAXSTAT"                            0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_BSDS_DTL"                       0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_BSDS_DTL_BP"                    0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_CCS_DTL"                        0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_CCS_DTL_BP"                     0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_FRA_DTL"                        0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_FRA_DTL_BP"                     0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_IBLS_DTL"                       0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_IBOS_DTL"                       0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_IBOS_DTL_BP"                    0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_NCD2_DTL"                       0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_NCD2_DTL_BP"                    0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_REPOS_BOND"                     0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_REPOS_BOND_BP"                  0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_REPOS_DTL"                      0 KB       0 rows
+. . exported "PMSS"."HIS_PDT_REPOS_DTL_BP"                   0 KB       0 rows
+. . exported "PMSS"."HIS_REPROT_DIFF_AMOUNT"                 0 KB       0 rows
+. . exported "PMSS"."IBROKE_BSD_TNOR_RC"                     0 KB       0 rows
+. . exported "PMSS"."INVOICECOLLECTIFSET"                    0 KB       0 rows
+. . exported "PMSS"."INVOICEDATADTL"                         0 KB       0 rows
+. . exported "PMSS"."INVOICEDATAMAIN"                        0 KB       0 rows
+. . exported "PMSS"."LOG_MAIN_PA"                            0 KB       0 rows
+. . exported "PMSS"."PDT_BSDC_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_BSDS_DTL"                           0 KB       0 rows
+. . exported "PMSS"."PDT_BSDS_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_BSDS_DTL_TB"                        0 KB       0 rows
+. . exported "PMSS"."PDT_BSD_DTL_BP"                         0 KB       0 rows
+. . exported "PMSS"."PDT_BSD_DTL_DC"                         0 KB       0 rows
+. . exported "PMSS"."PDT_BSD_DTL_TB"                         0 KB       0 rows
+. . exported "PMSS"."PDT_BSD_PRE_DTL"                        0 KB       0 rows
+. . exported "PMSS"."PDT_CCS_DTL"                            0 KB       0 rows
+. . exported "PMSS"."PDT_CCS_DTL_BP"                         0 KB       0 rows
+. . exported "PMSS"."PDT_CCS_DTL_TB"                         0 KB       0 rows
+. . exported "PMSS"."PDT_DEPO_DTL"                           0 KB       0 rows
+. . exported "PMSS"."PDT_DEPO_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_DEPO_DTL_TB"                        0 KB       0 rows
+. . exported "PMSS"."PDT_FRA_DTL"                            0 KB       0 rows
+. . exported "PMSS"."PDT_FRA_DTL_BP"                         0 KB       0 rows
+. . exported "PMSS"."PDT_FRA_DTL_TB"                         0 KB       0 rows
+. . exported "PMSS"."PDT_FXFWD_DTL"                          0 KB       0 rows
+. . exported "PMSS"."PDT_FXFWD_DTL_BP"                       0 KB       0 rows
+. . exported "PMSS"."PDT_FXFWD_DTL_TB"                       0 KB       0 rows
+. . exported "PMSS"."PDT_FXOPTION_DTL"                       0 KB       0 rows
+. . exported "PMSS"."PDT_FXOPTION_DTL_BP"                    0 KB       0 rows
+. . exported "PMSS"."PDT_FXOPTION_DTL_TB"                    0 KB       0 rows
+. . exported "PMSS"."PDT_FXSWAPF_DTL"                        0 KB       0 rows
+. . exported "PMSS"."PDT_FXSWAPF_DTL_BP"                     0 KB       0 rows
+. . exported "PMSS"."PDT_FXSWAPF_DTL_TB"                     0 KB       0 rows
+. . exported "PMSS"."PDT_FXSWAP_DTL"                         0 KB       0 rows
+. . exported "PMSS"."PDT_FXSWAP_DTL_BP"                      0 KB       0 rows
+. . exported "PMSS"."PDT_FXSWAP_DTL_TB"                      0 KB       0 rows
+. . exported "PMSS"."PDT_IBLS_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_IBLS_DTL_TB"                        0 KB       0 rows
+. . exported "PMSS"."PDT_IBL_DTL_BP"                         0 KB       0 rows
+. . exported "PMSS"."PDT_IBL_DTL_TB"                         0 KB       0 rows
+. . exported "PMSS"."PDT_IBOS_DTL"                           0 KB       0 rows
+. . exported "PMSS"."PDT_IBOS_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_IBOS_DTL_TB"                        0 KB       0 rows
+. . exported "PMSS"."PDT_IBO_DTL"                            0 KB       0 rows
+. . exported "PMSS"."PDT_IBO_DTL_BP"                         0 KB       0 rows
+. . exported "PMSS"."PDT_IBO_DTL_TB"                         0 KB       0 rows
+. . exported "PMSS"."PDT_IRS_DTL"                            0 KB       0 rows
+. . exported "PMSS"."PDT_IRS_DTL_BP"                         0 KB       0 rows
+. . exported "PMSS"."PDT_IRS_DTL_TB"                         0 KB       0 rows
+. . exported "PMSS"."PDT_NCD2_DTL"                           0 KB       0 rows
+. . exported "PMSS"."PDT_NCD2_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_NCD_DTL_BP"                         0 KB       0 rows
+. . exported "PMSS"."PDT_NCD_PRE_DTL"                        0 KB       0 rows
+. . exported "PMSS"."PDT_OBPO_DTL"                           0 KB       0 rows
+. . exported "PMSS"."PDT_OBPO_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_OBPO_DTL_TB"                        0 KB       0 rows
+. . exported "PMSS"."PDT_REPOS_BOND"                         0 KB       0 rows
+. . exported "PMSS"."PDT_REPOS_BOND_BP"                      0 KB       0 rows
+. . exported "PMSS"."PDT_REPOS_BOND_TB"                      0 KB       0 rows
+. . exported "PMSS"."PDT_REPOS_DTL"                          0 KB       0 rows
+. . exported "PMSS"."PDT_REPOS_DTL_BP"                       0 KB       0 rows
+. . exported "PMSS"."PDT_REPOS_DTL_TB"                       0 KB       0 rows
+. . exported "PMSS"."PDT_REPO_BOND"                          0 KB       0 rows
+. . exported "PMSS"."PDT_REPO_BOND_BP"                       0 KB       0 rows
+. . exported "PMSS"."PDT_REPO_BOND_TB"                       0 KB       0 rows
+. . exported "PMSS"."PDT_REPO_DTL"                           0 KB       0 rows
+. . exported "PMSS"."PDT_REPO_DTL_BP"                        0 KB       0 rows
+. . exported "PMSS"."PDT_REPO_DTL_TB"                        0 KB       0 rows
+. . exported "PMSS"."PDT_TNOR_MAIN_BP"                       0 KB       0 rows
+. . exported "PMSS"."PDT_TNOR_MAIN_DC"                       0 KB       0 rows
+. . exported "PMSS"."PDT_TNOR_MAIN_PA"                       0 KB       0 rows
+. . exported "PMSS"."PDT_TNOR_MAIN_TB"                       0 KB       0 rows
+. . exported "PMSS"."PDT_TNOR_TRADE"                         0 KB       0 rows
+. . exported "PMSS"."REPROT_DIFF_AMOUNT"                     0 KB       0 rows
+. . exported "PMSS"."SGUF_PDT_TNOR_MAIN"                     0 KB       0 rows
+. . exported "PMSS"."SYS_DASHBOARD_SET"                      0 KB       0 rows
+. . exported "PMSS"."TAXPAYERINFORMATION"                    0 KB       0 rows
+. . exported "PMSS"."TCI_DATA_DETAIL"                        0 KB       0 rows
+. . exported "PMSS"."TCI_DATA_MAIN"                          0 KB       0 rows
+. . exported "PMSS"."TCI_DATA_SEND"                          0 KB       0 rows
+. . exported "PMSS"."TCI_GROUPING_DEFEND"                    0 KB       0 rows
+. . exported "PMSS"."TCI_INVOCE_DEFEND"                      0 KB       0 rows
+. . exported "PMSS"."TEMP_BOND"                              0 KB       0 rows
+. . exported "PMSS"."TEMP_BOND2"                             0 KB       0 rows
+. . exported "PMSS"."TEST_ALL"                               0 KB       0 rows
+. . exported "PMSS"."TEST_BOND"                              0 KB       0 rows
+. . exported "PMSS"."TEST_COUNTS"                            0 KB       0 rows
+. . exported "PMSS"."TMP_BSC_MMBR"                           0 KB       0 rows
+. . exported "PMSS"."TMP_IBROKE_BSD_TNOR_RC"                 0 KB       0 rows
+Master table "PMSS"."SYS_EXPORT_SCHEMA_01" successfully loaded/unloaded
+******************************************************************************
+Dump file set for PMSS.SYS_EXPORT_SCHEMA_01 is:
+  /appl/oracle/app/oracle/admin/pciss/dpdump/pmss_autobak_20180430021501.dmp
+Job "PMSS"."SYS_EXPORT_SCHEMA_01" successfully completed at 02:15:49
+
+Oracle auto backup done.

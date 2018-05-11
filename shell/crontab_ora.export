@@ -1,0 +1,4 @@
+#15 02 * * * . /appl/oracle/.bash_profile; /appl/oracle/shell/exp_pmss.sh > /appl/oracle/shell/exp_pmss.log 2>&1
+25 02 * * * . /appl/oracle/.bash_profile; /appl/oracle/shell/deal_dump_file.sh >> /appl/oracle/shell/deal_dump_file.log 2>&1
+#40 02 * * * . /appl/oracle/.bash_profile; /appl/oracle/shell/sftp.sh >> /appl/oracle/shell/sftp.log 2>&1
+40 02 * * * . /appl/oracle/.bash_profile; /appl/oracle/shell/sftp86.sh >> /appl/oracle/shell/sftp86.log 2>&1

@@ -1,0 +1,847 @@
+pmss_autobak_20180118021501.dmp.gz
+Connecting to 10.112.32.135...
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+Couldn't read packet: Connection reset by peer
+Success!
+pmss_autobak_20180118021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180118021501.dmp.gz
+Uploading pmss_autobak_20180118021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180118021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180119021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180119021502.dmp.gz
+Uploading pmss_autobak_20180119021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180119021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180120021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180120021502.dmp.gz
+Uploading pmss_autobak_20180120021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180120021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180121021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180121021501.dmp.gz
+Uploading pmss_autobak_20180121021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180121021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180122021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180122021501.dmp.gz
+Uploading pmss_autobak_20180122021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180122021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180123021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180123021501.dmp.gz
+Uploading pmss_autobak_20180123021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180123021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180124021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180124021502.dmp.gz
+Uploading pmss_autobak_20180124021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180124021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180125021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180125021502.dmp.gz
+Uploading pmss_autobak_20180125021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180125021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180126021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180126021501.dmp.gz
+Uploading pmss_autobak_20180126021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180126021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180127021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180127021502.dmp.gz
+Uploading pmss_autobak_20180127021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180127021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180128021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180128021501.dmp.gz
+Uploading pmss_autobak_20180128021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180128021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180129021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180129021501.dmp.gz
+Uploading pmss_autobak_20180129021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180129021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180130021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180130021502.dmp.gz
+Uploading pmss_autobak_20180130021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180130021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180131021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180131021501.dmp.gz
+Uploading pmss_autobak_20180131021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180131021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180201021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180201021502.dmp.gz
+Uploading pmss_autobak_20180201021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180201021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180202021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180202021502.dmp.gz
+Uploading pmss_autobak_20180202021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180202021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180203021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180203021502.dmp.gz
+Uploading pmss_autobak_20180203021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180203021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180204021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180204021502.dmp.gz
+Uploading pmss_autobak_20180204021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180204021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180205021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180205021501.dmp.gz
+Uploading pmss_autobak_20180205021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180205021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180206021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180206021502.dmp.gz
+Uploading pmss_autobak_20180206021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180206021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180207021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180207021502.dmp.gz
+Uploading pmss_autobak_20180207021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180207021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180208021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180208021502.dmp.gz
+Uploading pmss_autobak_20180208021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180208021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180209021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180209021502.dmp.gz
+Uploading pmss_autobak_20180209021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180209021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180210021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180210021501.dmp.gz
+Uploading pmss_autobak_20180210021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180210021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180211021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180211021502.dmp.gz
+Uploading pmss_autobak_20180211021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180211021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180212021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180212021502.dmp.gz
+Uploading pmss_autobak_20180212021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180212021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180213021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180213021502.dmp.gz
+Uploading pmss_autobak_20180213021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180213021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180214021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180214021502.dmp.gz
+Uploading pmss_autobak_20180214021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180214021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180215021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180215021501.dmp.gz
+Uploading pmss_autobak_20180215021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180215021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180216021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180216021501.dmp.gz
+Uploading pmss_autobak_20180216021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180216021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180217021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180217021502.dmp.gz
+Uploading pmss_autobak_20180217021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180217021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180218021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180218021501.dmp.gz
+Uploading pmss_autobak_20180218021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180218021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180219021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180219021502.dmp.gz
+Uploading pmss_autobak_20180219021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180219021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180220021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180220021502.dmp.gz
+Uploading pmss_autobak_20180220021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180220021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180221021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180221021502.dmp.gz
+Uploading pmss_autobak_20180221021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180221021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180222021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180222021502.dmp.gz
+Uploading pmss_autobak_20180222021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180222021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180223021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180223021502.dmp.gz
+Uploading pmss_autobak_20180223021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180223021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180224021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180224021502.dmp.gz
+Uploading pmss_autobak_20180224021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180224021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180225021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180225021502.dmp.gz
+Uploading pmss_autobak_20180225021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180225021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180226021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180226021502.dmp.gz
+Uploading pmss_autobak_20180226021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180226021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180227021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180227021502.dmp.gz
+Uploading pmss_autobak_20180227021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180227021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180228021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180228021502.dmp.gz
+Uploading pmss_autobak_20180228021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180228021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180301021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180301021502.dmp.gz
+Uploading pmss_autobak_20180301021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180301021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180302021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180302021502.dmp.gz
+Uploading pmss_autobak_20180302021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180302021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180303021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180303021502.dmp.gz
+Uploading pmss_autobak_20180303021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180303021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180304021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180304021501.dmp.gz
+Uploading pmss_autobak_20180304021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180304021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180305021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180305021502.dmp.gz
+Uploading pmss_autobak_20180305021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180305021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180306021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180306021501.dmp.gz
+Uploading pmss_autobak_20180306021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180306021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180307021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180307021501.dmp.gz
+Uploading pmss_autobak_20180307021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180307021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180308021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180308021501.dmp.gz
+Uploading pmss_autobak_20180308021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180308021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180309021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180309021502.dmp.gz
+Uploading pmss_autobak_20180309021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180309021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180310021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180310021502.dmp.gz
+Uploading pmss_autobak_20180310021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180310021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180311021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180311021502.dmp.gz
+Uploading pmss_autobak_20180311021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180311021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180312021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180312021502.dmp.gz
+Uploading pmss_autobak_20180312021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180312021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180313021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180313021502.dmp.gz
+Uploading pmss_autobak_20180313021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180313021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180314021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180314021502.dmp.gz
+Uploading pmss_autobak_20180314021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180314021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180315021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180315021502.dmp.gz
+Uploading pmss_autobak_20180315021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180315021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180316021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180316021501.dmp.gz
+Uploading pmss_autobak_20180316021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180316021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180317021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180317021502.dmp.gz
+Uploading pmss_autobak_20180317021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180317021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180318021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180318021502.dmp.gz
+Uploading pmss_autobak_20180318021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180318021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180319021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180319021501.dmp.gz
+Uploading pmss_autobak_20180319021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180319021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180320021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180320021502.dmp.gz
+Uploading pmss_autobak_20180320021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180320021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180321021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180321021501.dmp.gz
+Uploading pmss_autobak_20180321021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180321021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180322021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180322021502.dmp.gz
+Uploading pmss_autobak_20180322021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180322021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180323021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180323021502.dmp.gz
+Uploading pmss_autobak_20180323021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180323021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180324021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180324021501.dmp.gz
+Uploading pmss_autobak_20180324021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180324021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180325021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180325021501.dmp.gz
+Uploading pmss_autobak_20180325021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180325021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180326021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180326021502.dmp.gz
+Uploading pmss_autobak_20180326021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180326021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180327021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180327021502.dmp.gz
+Uploading pmss_autobak_20180327021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180327021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180328021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180328021501.dmp.gz
+Uploading pmss_autobak_20180328021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180328021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180329021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180329021502.dmp.gz
+Uploading pmss_autobak_20180329021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180329021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180330021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180330021501.dmp.gz
+Uploading pmss_autobak_20180330021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180330021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180331021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180331021501.dmp.gz
+Uploading pmss_autobak_20180331021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180331021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180401021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180401021501.dmp.gz
+Uploading pmss_autobak_20180401021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180401021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180402021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180402021502.dmp.gz
+Uploading pmss_autobak_20180402021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180402021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180403021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180403021502.dmp.gz
+Uploading pmss_autobak_20180403021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180403021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180404021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180404021502.dmp.gz
+Uploading pmss_autobak_20180404021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180404021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180405021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180405021501.dmp.gz
+Uploading pmss_autobak_20180405021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180405021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180406021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180406021502.dmp.gz
+Uploading pmss_autobak_20180406021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180406021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180407021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180407021502.dmp.gz
+Uploading pmss_autobak_20180407021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180407021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180408021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180408021501.dmp.gz
+Uploading pmss_autobak_20180408021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180408021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180409021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180409021502.dmp.gz
+Uploading pmss_autobak_20180409021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180409021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180410021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180410021501.dmp.gz
+Uploading pmss_autobak_20180410021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180410021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180411021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180411021502.dmp.gz
+Uploading pmss_autobak_20180411021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180411021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180412021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180412021502.dmp.gz
+Uploading pmss_autobak_20180412021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180412021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180413021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180413021502.dmp.gz
+Uploading pmss_autobak_20180413021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180413021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180414021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180414021502.dmp.gz
+Uploading pmss_autobak_20180414021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180414021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180415021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180415021502.dmp.gz
+Uploading pmss_autobak_20180415021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180415021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180416021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180416021502.dmp.gz
+Uploading pmss_autobak_20180416021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180416021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180417021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180417021502.dmp.gz
+Uploading pmss_autobak_20180417021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180417021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180418021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180418021502.dmp.gz
+Uploading pmss_autobak_20180418021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180418021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180419021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180419021502.dmp.gz
+Uploading pmss_autobak_20180419021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180419021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180420021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180420021502.dmp.gz
+Uploading pmss_autobak_20180420021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180420021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180421021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180421021502.dmp.gz
+Uploading pmss_autobak_20180421021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180421021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180422021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180422021502.dmp.gz
+Uploading pmss_autobak_20180422021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180422021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180423021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180423021501.dmp.gz
+Uploading pmss_autobak_20180423021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180423021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180424021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180424021501.dmp.gz
+Uploading pmss_autobak_20180424021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180424021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180425021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180425021501.dmp.gz
+Uploading pmss_autobak_20180425021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180425021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180426021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180426021501.dmp.gz
+Uploading pmss_autobak_20180426021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180426021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180427021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180427021501.dmp.gz
+Uploading pmss_autobak_20180427021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180427021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180428021502.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180428021502.dmp.gz
+Uploading pmss_autobak_20180428021502.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180428021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180428021502.dmp.gz
+Success!
+pmss_autobak_20180428021502.dmp.gz
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /oracle/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180428021502.dmp.gz
+Uploading pmss_autobak_20180428021502.dmp.gz to /oracle/oracle11g/admin/pciss/dpdump/pmss_autobak_20180428021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180428021502.dmp.gz
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /oracle/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180428021502.dmp.gz
+Uploading pmss_autobak_20180428021502.dmp.gz to /oracle/oracle11g/admin/pciss/dpdump/pmss_autobak_20180428021502.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180429021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180429021501.dmp.gz
+Uploading pmss_autobak_20180429021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180429021501.dmp.gz
+sftp>   bye
+Success!
+pmss_autobak_20180430021501.dmp.gz
+Connecting to 10.112.32.135...
+sftp>   lcd /appl/oracle/app/oracle/admin/pciss/dpdump
+sftp>   cd /home/oracle/app/oracle11g/admin/pciss/dpdump
+sftp>   put pmss_autobak_20180430021501.dmp.gz
+Uploading pmss_autobak_20180430021501.dmp.gz to /home/oracle/app/oracle11g/admin/pciss/dpdump/pmss_autobak_20180430021501.dmp.gz
+sftp>   bye
+Success!
