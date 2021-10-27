@@ -45,5 +45,10 @@ dracula
 
 [![Dotama's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotama&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+Gradient
+
+[![Dotama's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotama&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 Most used languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotama)](https://github.com/anuraghazra/github-readme-stats)
